@@ -36,7 +36,7 @@ Le développement de Dubto ne m’a pas pris beaucoup de temps, au total j’ai 
 <br/>
 <hr/>
 
-# Contacte et amélioration
+# Contact et amélioration
 Vous pouvez amélioré le programme si vous le souhaité, le script est disponible sur github, vous pourrez m'envoyer la version améliorer si vous le souhaitez afin que le programme soit mis à jour ainsi que sont github. <br/>
 N'hésiter pas m'envoyer un mail à dubto.officiel@gmail.com.
 
